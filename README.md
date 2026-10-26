@@ -60,9 +60,9 @@ Python · pandas · NumPy · scikit-learn · scikit-optimize · Matplotlib · Ju
 ## 📁 Fichiers
 
 ```
-├── TP3_ATDN2_GADIAGA.ipynb       # Notebook complet
-├── Rapport_TP3ATDN2_GADIAGA.pdf  # Rapport d'analyse
-└── tp2_atdn_donnees.csv          # Données
+├── optimisation_bayesienne.ipynb   # Notebook complet
+├── rapport_analyse.pdf             # Rapport d'analyse
+└── donnees_agricoles.csv           # Données
 ```
 
 ## 👩‍💻 Autrice
